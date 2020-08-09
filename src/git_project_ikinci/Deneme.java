@@ -7,6 +7,7 @@ public class Deneme {
 		System.out.println("github da degistirdim");
 		
 		System.out.println("github da conflict");
+		System.out.println("github da conflict");
 
 	}
 
